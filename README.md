@@ -1,2 +1,4 @@
 # lucky_goals
 Data Analysis for "Lucky Goals and Outcome Bias: Natural Experiment Using Spatial Discontinuity Around the Goal Frame"
+
+_Abstract:_ In this project, I use geocoded soccer data (StatsBomb) and take advantage of the spatial discontinuity around the goal frame in a Regression Discontinuity Design to estimate the causal effects of luck on evaluations of soccer players. Intuitively, the identifying assumption is that conditional on shooting close to the goal frame (i.e., hitting the post), it is quasi-random if a shot ends up as a score or a miss. Thus, any consequenctial difference in the evaluatiosn of the players reflect the extent to which they contain randomness instead of pure quality of performance. This points to an exploitable market bias, one could buy undervalued unlucky players (i.e., those with high near-misses to close-goals ratios) and sell them for a premium when their ratio naturally increases.
